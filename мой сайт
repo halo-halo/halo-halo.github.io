@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>another site about cats</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+        <div class="box2"> проекты </div>
+    <div class="box1"> фотографии</div>
+        
+
+        
+    </div> 
+    <div class="wrapper">
+  
+<div class="foto">
+
+          </div> 
+       
+        <div class="content">
+           <div class="header">
+               <h1>
+                    Мое творчество
+                </h1>
+            <div class="article">
+                Мое творческтво немного странное и не всем понятно.
+                сейчас в сможете с ним ознакомиться. 
+                Будут представлены разнае работы- от картин до странной лирики.
+                Понимайте все это как хотите. Можно даже немного критики-
+
+            </div>
+     
+        </div>
+    </div>
+</body>
+
+</html>
